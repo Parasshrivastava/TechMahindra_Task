@@ -1,7 +1,7 @@
 import React from 'react'
 import {data5,data6,data7,data9} from "../utils/data.js"
 import Card from '../components/Card.jsx'
-import Cfoservices from '../components/cfoservices.jsx'
+import Cfoservices from '../components/Cfoservices.jsx'
 const Services = () => {
     return (
         <div>
